@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "catwall",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/Horror.webp"
+  },
+  {
+    "id": 2,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/T-Rex%20roaring.webp"
+  },
+  {
+    "id": 3,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/dinozorlar.webp"
+  },
+  {
+    "id": 4,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(1).webp"
+  }
+  ,
+  {
+    "id": 5,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(2).webp"
+  },
+  {
+    "id": 6,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(3).webp"
+  }
+  ,
+  {
+    "id": 7,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(4).webp"
+  },
+  {
+    "id": 8,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(5).webp"
+  }
+  ,
+  {
+    "id": 9,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(6).webp"
+  },
+  {
+    "id": 10,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/download%20(7).webp"
+  }
+  ,
+  {
+    "id": 11,
+    "title": "Beautiful Landscape",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/robot%20rapter%20T-rex%20in%20the%20meteor%20shower.webp"
+  },
+  {
+    "id": 12,
+    "title": "Ocean View",
+    "imageUrl": "https://raw.githubusercontent.com/yudhapratamadev/Dino-json/refs/heads/main/tyrannosaurus%20%20rex%20%20dinosaur.webp"
+  }
+]
